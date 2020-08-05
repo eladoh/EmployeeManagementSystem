@@ -6,11 +6,9 @@ An employee management system based on spring + springmvc + mybatis; realized a 
 It involves sending ajax requests, jQuery username validation, UI design, RESTful URI, server-side SSM framwork build and some simple business flows. 
 
 
-
-
-
-
 ![](images/screenshot1.png)
+
+![](images/screenshot2.png)
 
 ## Main functions
 
