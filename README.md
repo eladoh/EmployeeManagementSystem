@@ -12,7 +12,7 @@ It involves sending ajax requests, jQuery username validation, UI design, RESTfu
 
 ## Main functions
 
-1. Query and display in multiple pages
+1. Query from database and display employee info in multiple pages
 2. Add employee
     - username & email validation
     - client-side: jQuery; server-side: JSR303
