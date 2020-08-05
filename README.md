@@ -1,7 +1,7 @@
 # EmployeeManagementSystem
 
 
-An employee management system based on spring + springmvc + mybatis; realized a set of basic CRUD functions. 
+An employee management system based on spring + springmvc + mybatis, which has a complete set of CRUD functions. 
 
 It involves sending ajax requests, jQuery username validation, UI design, RESTful URI, server-side SSM framwork build and some simple business flows. 
 
